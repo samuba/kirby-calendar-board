@@ -86,7 +86,7 @@ If you need a calendar view also in the website, you can use, for example, the g
 
 ![calendar_website](https://cloud.githubusercontent.com/assets/11831276/12672797/1022b3fc-c679-11e5-81d2-a65be9c15e1a.png)
 
-##About performance, breadcrumb and hack
+## About performance, breadcrumb and hack
 
 Years folders are useful because they allow to split the day folders in more directories avoiding performance issues.
 The con is that you will see the years breadcrumb in the panel header and you could open their pages.
